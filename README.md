@@ -80,9 +80,6 @@ Contributions are welcome! To contribute:
 3. Make your changes and commit them.
 4. Push the changes and open a pull request.
 
-## License
-This project is licensed under the MIT License. Feel free to use and modify it as needed.
-
 ---
-**Maintainer:** Hafeez Rahman S H ()
+**Maintainer:** Hafeez Rahman S H 
 
